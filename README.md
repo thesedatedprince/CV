@@ -20,7 +20,7 @@ I understand the importance of accurate reporting at key project milestones. As 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (2016 to 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
