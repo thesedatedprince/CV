@@ -6,7 +6,11 @@ I'm looking for a development role where I can continue to refine and master my 
 
 ## Skills
 
-## Organisation
+#### Software Development
+
+Through Maker's Academy, I have learnt to develop software through strong TDD principles within the Agile methodology. I have developed web apps using Ruby, Javascript, HTML and CSS, and have used several frameworks including Rails and Sinatra. The Maker's curriculum encourages self-led learning, meaning that the skills I have learnt can be applied to further languages. Therefore, I am currently learning Swift by developing my own iOS game as a post-academy project.
+
+#### Organisation
 
 As a former Project Manager, I understand the importance of carefully planning a project and working with others to ensure it's successful completion and delivery in terms of both spec and timeframe. However, I'm also used to the fact that often unexepected obstacles can surface, which need to be overcome! I believe in an organised, methodical approach to project flow, which also allows enough flexibility for change when faced with the unexpected.
 
@@ -18,16 +22,24 @@ Having formerly worked as a client-facing staff member at a Design and Marketing
 
 I understand the importance of accurate reporting at key project milestones. As both an agency and freelance marketer, I've previously put together in-depth reports covering online traffic activity, sales conversions, and close analysis of contributing factors and activities. Through any project, it's important to demonstrate the efficiency and efficacy of your work, and how it leads to creating a more effective final product.
 
+## Projects
+
+|Project                           | Repository                                              | Technologies                              |
+|----------------------------------|:-------------------------------------:                  |------------------------------------------:|
+|BeMyMeme - a Dating app           |https://github.com/Justinio14/BeMyMeme                   |Rails, Ruby, RSpec, ActiveCable, Javascript|
+|Millionaire Machine - Finance App |https://github.com/thesedatedprince/millionaire-machine  |Rails, Ruby, RSpec                          |
 ## Education
 
 #### Makers Academy (2016 to 2017)
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, jQuery
+- Rspec, Jasmine
+- Postgresql, Activerecord
+- Redis, Heroku
 
 #### University of Essex (2009-2010)
 
