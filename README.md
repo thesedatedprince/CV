@@ -24,10 +24,14 @@ I understand the importance of accurate reporting at key project milestones. As 
 
 ## Projects
 
-|Project                           | Repository                                              | Technologies                              |
+|Project                           | Repository                                              | Technologies  and Languages                |
 |----------------------------------|:-------------------------------------:                  |------------------------------------------:|
 |BeMyMeme - a Dating app           |https://github.com/Justinio14/BeMyMeme                   |Rails, Ruby, RSpec, ActiveCable, Javascript|
 |Millionaire Machine - Finance App |https://github.com/thesedatedprince/millionaire-machine  |Rails, Ruby, RSpec                          |
+|Instagram Clone                   |https://github.com/thesedatedprince/instagram-challenge  |Rails, Ruby, Javascript, RSpec              |
+Yelp Clone                         |https://github.com/thesedatedprince/yelp                 |Rails, Ruby, Javascript, RSpec              |
+News App                           |https://github.com/thesedatedprince/news-app             |Javascript, JQuery, HTML, CSS              |
+
 ## Education
 
 #### Makers Academy (2016 to 2017)
