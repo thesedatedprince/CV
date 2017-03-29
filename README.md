@@ -16,7 +16,7 @@ As a former Project Manager, I understand the importance of carefully planning a
 
 #### Communication
 
-Having formerly worked as a client-facing staff member at a Design and Marketing agency, I'm used to working with individuals from a diverse range of backgrounds with different expecations in terms of service and delivery. I understand the importance of clear and concise communication with internal and external team members through all stages of a project, and catering my delivery based on the expectations of each individual.
+Having formerly worked as a client-facing staff member at a Design and Marketing agency, I'm used to working with individuals from a diverse range of backgrounds with different expecations in terms of service and delivery. I understand the importance of clear and concise communication with internal and external team members through all stages of a project, and catering my delivery based on the expectations of each individual. As part of the Makers course, I had to exclusively communicate via remote means with the rest of my project team, meaning that clear and concise communication was essential.
 
 #### Reporting and Analysis
 
