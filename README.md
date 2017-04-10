@@ -12,11 +12,11 @@ Through Maker's Academy, I have learnt to develop software through strong TDD pr
 
 #### Organisation
 
-As a former Project Manager, I understand the importance of carefully planning a project and working with others to ensure it's successful completion and delivery in terms of both spec and timeframe. However, I'm also used to the fact that often unexepected obstacles can surface, which need to be overcome! I believe in an organised, methodical approach to project flow, which also allows enough flexibility for change when faced with the unexpected.
+As a former Project Manager, I understand the importance of carefully planning a project and working with others to ensure it's successful completion and delivery in terms of both spec and timeframe. However, I'm also used to the fact that often unexpected obstacles can surface, which need to be overcome! I believe in an organised, methodical approach to project flow, which also allows enough flexibility for change when faced with the unexpected.
 
 #### Communication
 
-Having formerly worked as a client-facing staff member at a Design and Marketing agency, I'm used to working with individuals from a diverse range of backgrounds with different expecations in terms of service and delivery. I understand the importance of clear and concise communication with internal and external team members through all stages of a project, and catering my delivery based on the expectations of each individual. As part of the Makers course, I had to exclusively communicate via remote means with the rest of my project team, meaning that clear and concise communication was essential.
+Having formerly worked as a client-facing staff member at a Design and Marketing agency, I'm used to working with individuals from a diverse range of backgrounds with different expectations in terms of service and delivery. I understand the importance of clear and concise communication with internal and external team members through all stages of a project, and catering my delivery based on the expectations of each individual. As part of the Makers course, I had to exclusively communicate via remote means with the rest of my project team, meaning that clear and concise communication was essential.
 
 #### Reporting and Analysis
 
