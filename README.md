@@ -1,6 +1,6 @@
 ## Matthew Perry
 
-I'm a former Marketing Associate and Project Manager, with a huge passion for code. In my previous marketing positions, technical SEO was always my favourite job activity, which led me to develop an interest in how websites and web apps are developed for maximum efficiency. Additionally, one of my hobbies is video game design - a passion which has naturally caused me to have a huge interest in code and desire to learn and master software development skills. I'm an INTJ personality type - independent, creative and analytical!
+I'm a former Marketing Associate and Project Manager, with a huge passion for code. I have recently completed Makers Academy's code bootcamp, and am looking for my first junior developer position. In my previous marketing positions, technical SEO was always my favourite job activity, which led me to develop an interest in how websites and web apps are developed for maximum efficiency. Additionally, one of my hobbies is video game design - a passion which has naturally caused me to have a huge interest in code and desire to learn and master software development skills. I'm an INTJ personality type - independent, creative and analytical!
 
 I'm looking for a development role where I can continue to refine and master my coding skills. My interests and ambitions mean that I'm always interested in taking on new challenges to develop my abilities.
 
