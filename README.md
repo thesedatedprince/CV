@@ -61,18 +61,22 @@ News App                           |https://github.com/thesedatedprince/news-app
 
 **Self-Employed** (2016-2017)    
 *Marketing Consultant*
+
 Provided content marketing and technical SEO services for a variety of clients from a diverse set of industries.
 
 **Greensplash Ltd** (2014-2016)    
 *Marketing Associate and Project Manager*
-Manged several website design projects to successful conclusion. Also worked directly for clients on various marketing services, including SEO, newsletter marketing and social media marketing.
 
-**The Green Electrician Group** (2013-2014)   
+Managed several website design projects to successful conclusion. Also worked directly for clients on various marketing services, including SEO, newsletter marketing and social media marketing.
+
+**The Green Electrician Group** (2013-2014)  
 *Marketing Administrator*
+
 Supported the Marketing Manager on projects, including events marketing, social media marketing and brochure design. Also trained as a Sage CRM system administrator, and updated and maintained a Magento ecommerce website.
 
-**Self-Employed** (2010-2012)    
+**Self-Employed** (2010-2012)   
 *Film Editor*
+
 Edited together video for websites and events. Worked closely with Publisuisse Ltd, developing my abilities to co-ordinate with team members remotely.
 
 ## Other Experience
