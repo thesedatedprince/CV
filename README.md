@@ -38,11 +38,11 @@ News App                           |https://github.com/thesedatedprince/news-app
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, jQuery
 - Rspec, Jasmine
-- Postgresql, Activerecord
+- Postgresql, ActiveRecord
 - Redis, Heroku
 
 #### University of Essex (2009-2010)
